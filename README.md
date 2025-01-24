@@ -1,0 +1,1 @@
+A simple CRUD REST webapp, written on pure Java using JDBC and Jersey
